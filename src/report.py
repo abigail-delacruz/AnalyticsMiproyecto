@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Reporte de ejemplo')
+st.title('Reporte de Fuga de Clientes Bancarios')
 
-DATE_COLUMN = 'date/time'
+DATE_COLUMN = 'Age'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
             'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
 
