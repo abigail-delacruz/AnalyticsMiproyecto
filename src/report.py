@@ -5,8 +5,10 @@ import numpy as np
 st.title('Reporte de Fuga de Clientes Bancarios')
 
 DATE_COLUMN = 'date/time'
-DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
-            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+DATA_URL = (uploaded_file = st.file_uploader("DATA\DATA'Churn_Modelling.html")
+if uploaded_file is not None:
+  df = pd.read_csv(uploaded_file)
+  st.write(df)
 
 @st.cache
 def load_data(nrows):
