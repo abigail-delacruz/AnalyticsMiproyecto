@@ -4,11 +4,11 @@ import numpy as np
 
 st.title('Reporte de Fuga de Clientes Bancarios')
 
-DATE_COLUMN = 'date/time'
-DATA_URL = (uploaded_file = st.file_uploader("DATA\DATA'Churn_Modelling.html")
+DATA_URL=uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
   df = pd.read_csv(uploaded_file)
-  st.write(df)
+  st.write(dataframe)
+DATE_COLUMN = 'Age'
 
 @st.cache
 def load_data(nrows):
