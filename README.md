@@ -4,7 +4,7 @@ Este repositorio contiene los datos utilizados en mi primer proyecto de data ana
 
 ## Otra información
 
-El estado de este repositorio esta en proceso ...Tenemos las siguientes tareas pendientes:
+El estado de este repositorio se encuentra finalizado ...Se abordó la siguiente checklist de tareas:
 
 1.Crear repositorio local utilizando [git](https://git-scm.com/download)✅                             
 
@@ -16,11 +16,11 @@ El estado de este repositorio esta en proceso ...Tenemos las siguientes tareas p
 
 5.Hacer mi primer notebook de exploración de datos y subirlo a github ✅                                 
 
-6.Hacer mi primer reporte exploratorio de datos y subirlo a github ⚪                                 
+6.Hacer mi primer reporte exploratorio de datos y subirlo a github ✅                                 
                  
-7.Documentar cada paso de mi proceso de aprendizaje ⚪
+7.Documentar cada paso de mi proceso de aprendizaje ✅
 
-8.Colocar fuentes de referencias que me ayudaron a realizar mi proyecto ⚪   
+8.Colocar fuentes de referencias que me ayudaron a realizar mi proyecto ✅   
 https://damzar.medium.com/crea-y-personaliza-mapas-en-python-con-matplotlib-44fee941b289
 https://blogvisionarios.com/e-learning/articulos-data/que-es-la-tasa-de-abandono-de-clientes/
 https://www.kaggle.com/code/kmalit/bank-customer-churn-prediction/data
